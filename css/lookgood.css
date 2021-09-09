@@ -1,0 +1,22 @@
+  /*My Layout styles*/
+  
+  .noMargin {
+      margin: 0;
+  }
+  
+  a,
+  h2 {
+      color: #000;
+      font-family: 'Chewy', cursive;
+      font-size: 1.5em;
+  }
+  
+  a:hover,
+  a:focus {
+      text-decoration: none;
+      color: black;
+  }
+  
+  .bigger {
+      font-size: 2em;
+  }
